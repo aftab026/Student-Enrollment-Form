@@ -8,7 +8,7 @@ Student Enrollment System using JsonPowerDB
 
 The Student Enrollment System is a web-based application that allows educational institutions to efficiently manage student enrollment records. It provides a user-friendly interface for entering and updating student information, including roll number, name, class, date of birth, address, and enrollment date. The system is designed to interact with JsonPowerDB, a versatile NoSQL database, for storing and retrieving student data.
 
-#Benefits of using JsonPowerDB
+# Benefits of using JsonPowerDB
 
 JsonPowerDB offers several advantages that make it an excellent choice for this project:
 
