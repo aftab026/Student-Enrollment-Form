@@ -2,7 +2,7 @@
 
 # Title of the Project
 
-Student Enrollment System using JsonPowerDB
+Student Enrollment Form using JsonPowerDB
 
 # Description
 
